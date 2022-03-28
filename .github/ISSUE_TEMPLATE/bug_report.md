@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "[BUG] Short description"
 labels: bug
 assignees: ''
 
@@ -28,4 +28,4 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the problem here. Include any links to related issues and/or pull requests (including in other repositories).

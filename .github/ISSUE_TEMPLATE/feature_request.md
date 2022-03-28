@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: "[Feature Request] Short description"
 labels: enhancement
 assignees: ''
 
@@ -22,4 +22,4 @@ A clear and concise description of any alternative solutions or features you've 
 | alt 1 | reason, reason, ... |
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Add any other context or screenshots about the feature request here. Include any links to related issues and/or pull requests (including in other repositories).
