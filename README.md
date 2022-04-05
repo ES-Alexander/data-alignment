@@ -6,3 +6,9 @@ A Python-focused repository for data alignment of
 
 # Requirements
 Python >= 3.8, and libraries specified in [requirements.txt](/requirements.txt) (`python3 -m pip install -r requirements.txt`)
+
+# Setup
+Ensure required supplementary files have been downloaded:
+```
+python3 bootstrap.py
+```
