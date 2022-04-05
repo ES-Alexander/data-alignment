@@ -1,0 +1,10 @@
+[
+  {
+    "repo":"bluerobotics/ping-viewer",
+    "commit":"4d696f5fa78626a0f5ba3ec71443beba209939c0",
+    "out":"sonar",
+    "files":[
+      "examples/decode_sensor_binary_log.py"
+    ]
+  }
+]
